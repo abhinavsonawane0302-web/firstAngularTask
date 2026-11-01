@@ -9,6 +9,8 @@ export class AppComponent {
   title = 'firstAngularTask';
   userName = 'Abhinav';
 
+para: Array<string> = ["Angular is an open-source, TypeScript-based front-end web application framework developed and maintained by Google. It is designed for building scalable, single-page applications (SPAs) and enterprise-grade web solutions"];
+
 skills: Array<string> = ["TS", "JS", "NG", "NODE", "EXPRESS", "MONGODB"];
 
 skills1: Array<string> = ["CRICKET", "FOOTBALL", "HOCKEY", "TENNIS", "BADMINTON"];
